@@ -12,7 +12,7 @@ setup(
     install_requires=[
         'tensorflow>=0.12',
         'numpy>=1.11.0',
-        'matplotlib>=2.2.0',
+        'matplotlib>=2.0.0',
     ],
     license='',
 )
