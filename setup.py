@@ -8,7 +8,7 @@ setup(
     author='Paul B.',
     author_email='paulb@example.com',
     url='https://github.com/balancap/SSD-Tensorflow',
-    packages=['nets', 'preprocessing', 'notebooks'],
+    packages=['nets', 'preprocessing', 'notebooks', 'tf_extended'],
     install_requires=[
         'tensorflow>=0.12',
         'numpy>=1.11.0',
