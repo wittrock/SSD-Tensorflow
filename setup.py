@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='ssd-tensorflow',
+    name='ssdtensorflow',
     version='0.0.1',
     description='TensorFlow implementation of SSD networks',
     long_description=open('README.md', 'rb').read().decode('utf-8'),
